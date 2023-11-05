@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Item 1
 Add a file
 Add a second file
 learn py
 Bring coffee
+=======
+Bring MilkGet 2 bottles of Milk
+Get Instant Coffee
+Get No fat yogurt
+>>>>>>> 41d8c77dd53a75c0c6d301a667473045413008ad
