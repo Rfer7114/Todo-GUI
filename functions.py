@@ -1,6 +1,5 @@
 FILEPATH = "todos.txt"
 
-
 def get_todos(filepath=FILEPATH):
     """ Reads the todos text file and returns the
     items back to the calling client
