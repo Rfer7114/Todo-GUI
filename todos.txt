@@ -1,6 +1,5 @@
 My List
-Add a second file
-learn pythonBring coffee
-Bring TeaGet Instant Coffee
-Get No fat yogurt
-get chocolates for familyGo for a haircutDo a 30 min walk
+Bring coffee
+Bring tea
+Bring yogurt
+Bring coke
